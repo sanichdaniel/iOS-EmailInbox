@@ -1,0 +1,6 @@
+framework module Pods_Rocket_RocketUITests {
+  umbrella header "Pods-Rocket-RocketUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
